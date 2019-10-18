@@ -1,0 +1,45 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	margin: 50px;
+
+
+}
+
+.page {
+	width: 40%;
+		background-color: yellow;
+
+}
+
+h1 {
+	color: black;
+	font-family: 'comic-sans', 'Georgia', 'Arial';
+}
+
+#header {
+	
+}
+
+#rez {
+	padding-top: 30px;
+	font-size: 20px;
+	text-align: center; 
+
+}
+
+#container {
+	border: 5px solid black;
+	width: 400px;
+	height: 300px;
+}
+
+#btn {
+	width: 100%;
+	background-color: red;
+	font-size: 40px;
+}
+
+
